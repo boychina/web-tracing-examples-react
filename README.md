@@ -6,7 +6,7 @@
   </p>
 </div>
 
-## web-tracing-examples-vue3
+## web-tracing-examples-react
 [web-tracing](https://github.com/M-cheng-web/web-tracing)的示例项目（react版本）
 
 此项目由 [web-tracing -> examples -> react](https://github.com/M-cheng-web/web-tracing/tree/main/examples/react) 通过脚本直接覆盖迁移过来的，目的是为了拟真测试，本地联调还是在 [web-tracing](https://github.com/M-cheng-web/web-tracing) 项目中完成的
